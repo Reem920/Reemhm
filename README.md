@@ -36,12 +36,6 @@
   <!-- ... Other social media badges ... -->
 </p>
 
-## 📚 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Title of the post](Link to the post)
-- [Title of the post](Link to the post)
-<!-- BLOG-POST-LIST:END -->
-
 ## 🏆 Achievements & Certifications
 <!-- Add any achievements or certifications you have, like below -->
 - [Name of Achievement/Certification](Link to credential)
