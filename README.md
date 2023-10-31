@@ -28,9 +28,8 @@
 - [Project Name](GitHub link) - A brief explanation that captures the essence of the project.
 
 ## 📫 Let's Connect
-<p align="center">
-  <a href="Your LinkedIn URL"(https://www.linkedin.com/in/reem-a-a2914392/)
-</p>
+(https://www.linkedin.com/in/reem-a-a2914392/)
+
 
 ## 🏆 Achievements & Certifications
 <!-- Add any achievements or certifications you have, like below -->
