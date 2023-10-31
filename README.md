@@ -9,17 +9,11 @@
 - 📫 Reach me at: `[your-email@example.com]`.
 
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&count_private=true&show_icons=true&theme=radical" alt="[Your Name]'s GitHub Stats" width="400"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark" alt="GitHub Streak" width="400"/>
-</p>
-
 ## 💻 Technologies & Tools
 <!-- Customize badges to match your skills -->
 ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-Tableau-blue?style=for-the-badge&logo=Tableau&logoColor=white)
 <!-- ... Other badges ... -->
 
 ## 🌟 Highlighted Projects
@@ -31,10 +25,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Reem-blue)](https://www.linkedin.com/in/reem-a-a2914392/)
 
 
-## 🏆 Achievements & Certifications
-<!-- Add any achievements or certifications you have, like below -->
-- [Name of Achievement/Certification](Link to credential)
-- [Name of Achievement/Certification](Link to credential)
-
-<!-- Add a footer with a custom message or quote -->
-<footer align='center'>🌟 [Custom Footer Quote or Message] 🌟</footer>
