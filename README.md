@@ -28,7 +28,7 @@
 - [Project Name](GitHub link) - A brief explanation that captures the essence of the project.
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue)](https://www.linkedin.com/in/reem-a-a2914392/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Reem-blue)](https://www.linkedin.com/in/reem-a-a2914392/)
 
 
 ## 🏆 Achievements & Certifications
