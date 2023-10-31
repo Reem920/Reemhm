@@ -17,9 +17,7 @@
 <!-- ... Other badges ... -->
 
 ## 🌟 Highlighted Projects
-<!-- Replace with your own projects -->
-- [Project Name](GitHub link) - A concise description highlighting the main purpose and your contributions.
-- [Project Name](GitHub link) - A brief explanation that captures the essence of the project.
+
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Reem-blue)](https://www.linkedin.com/in/reem-a-a2914392/)
