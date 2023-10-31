@@ -9,7 +9,6 @@
 - 📫 Reach me at: `[your-email@example.com]`.
 
 
-
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&count_private=true&show_icons=true&theme=radical" alt="[Your Name]'s GitHub Stats" width="400"/>
