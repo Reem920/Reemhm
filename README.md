@@ -2,8 +2,9 @@
 
 ## 🚀 About Me
 - 🔭 I’m an aspiring business analyst studying Masters in Business Analytics and Big Data.
-- 💬 Let's talk about !(https://img.shields.io/badge/Code-SQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)
+- 💬 Let's talk about ![](https://img.shields.io/badge/Code-SQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)
 ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
+
 
 - 📫 Reach me at: `[your-email@example.com]`.
 
