@@ -30,9 +30,6 @@
 ## 📫 Let's Connect
 <p align="center">
   <a href="Your LinkedIn URL"(https://www.linkedin.com/in/reem-a-a2914392/)
-  <a href="Your Twitter URL"><img src="https://img.shields.io/twitter/follow/yourusername?label=Twitter&style=social" alt="Twitter"></a>
-  <a href="Your Portfolio URL"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio--_.svg?style=social&logo=googledrive"></a>
-  <!-- ... Other social media badges ... -->
 </p>
 
 ## 🏆 Achievements & Certifications
