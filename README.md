@@ -6,13 +6,12 @@
 ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
 
 
-- 📫 Reach me at: `[your-email@example.com]`.
+- 📫 Reach me at: `[reemalmaamari@gmail.com]`.
 
 
 ## 💻 Technologies & Tools
 <!-- Customize badges to match your skills -->
 ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-Tableau-blue?style=for-the-badge&logo=Tableau&logoColor=white)
 <!-- ... Other badges ... -->
 
